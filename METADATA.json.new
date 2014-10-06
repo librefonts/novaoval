@@ -1,0 +1,24 @@
+{
+  "name": "Nova Oval",
+  "designer": "Wojciech Kalinowski",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 41727,
+  "fonts": [
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NovaOval-Book.ttf",
+      "postScriptName": "NovaOval",
+      "fullName": "Nova Oval",
+      "copyright": "Copyright (c) 2011, wmk69 (wmk69@o2.pl)\nwith Reserved Font Names 'NovaOval' and 'Nova Oval'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-03-23"
+}
